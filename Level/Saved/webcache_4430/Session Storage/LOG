@@ -1,2 +1,3 @@
-2025/10/27-12:07:10.074 2a1c Creating DB C:/Users/dbga_068/UnrealTest/Level/Saved/webcache_4430\Session Storage since it was missing.
-2025/10/27-12:07:10.097 2a1c Reusing MANIFEST C:/Users/dbga_068/UnrealTest/Level/Saved/webcache_4430\Session Storage/MANIFEST-000001
+2025/10/28-16:27:57.342 4b50 Reusing MANIFEST C:/Users/dbga_068/UnrealLevel/Level/Saved/webcache_4430\Session Storage/MANIFEST-000001
+2025/10/28-16:27:57.344 4b50 Recovering log #3
+2025/10/28-16:27:57.345 4b50 Reusing old log C:/Users/dbga_068/UnrealLevel/Level/Saved/webcache_4430\Session Storage/000003.log 
